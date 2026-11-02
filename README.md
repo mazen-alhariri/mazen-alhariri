@@ -1,94 +1,147 @@
+<div align="center">
 
-# MAZEN ALHARIRI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Mazen%20Alhariri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Computer%20Science%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-**Computer Science | Cybersecurity | Software Development**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Curious+about+how+systems+are+attacked+and+defended;Studying+networking%2C+Linux%2C+Python+%26+security;Building+a+path+toward+a+cybersecurity+degree" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## PROFILE
+![Location](https://img.shields.io/badge/Location-Syria%20%F0%9F%87%B8%F0%9F%87%BE-0ea5e9?style=for-the-badge)
+![Field](https://img.shields.io/badge/Field-Cybersecurity-0f172a?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-mazen.alhariri.sec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazen.alhariri.sec@gmail.com)
 
-Technology enthusiast with a strong interest in Computer Science, Cybersecurity, and the underlying principles of computing systems.
-
-My learning journey focuses on programming, networking, operating systems, information security, and cryptography. I aim to develop a solid technical foundation through structured learning, practical experimentation, and hands-on projects.
-
-I am particularly interested in understanding how software, networks, and security mechanisms work together to build reliable and secure systems.
-
----
-
-## TECHNICAL INTERESTS
-
-| Domain | Areas of Interest |
-|:---|:---|
-| Programming | Python, Software Development |
-| Networking | Network Fundamentals, Protocols, Network Architecture |
-| Cybersecurity | Information Security, Security Fundamentals, Ethical Hacking |
-| Operating Systems | Linux, Operating System Fundamentals |
-| Cryptography | Encryption, Hashing, Cryptographic Fundamentals |
+</div>
 
 ---
 
-## CURRENTLY LEARNING
+## 👋 About Me
 
-- Python Programming
-- Computer Networking Fundamentals
-- Cybersecurity Fundamentals
-- Operating Systems
-- Linux Administration and Command Line
-- Cryptography and Data Protection
+I'm **Mazen Alhariri**, a cybersecurity student from **Syria 🇸🇾**, preparing to study **Cybersecurity** at university.
 
----
+I'm currently studying networking and cybersecurity fundamentals at **New Horizons Institute**, and I complement my coursework with independent study and hands-on practice.
 
-## AREAS OF FOCUS
+## 💡 Why Cybersecurity?
 
-**Programming & Automation**
-
-Developing programming skills with Python and exploring its applications in software development, automation, and security.
-
-**Computer Networks**
-
-Understanding network architecture, communication protocols, addressing, and the fundamentals of network infrastructure.
-
-**Cybersecurity**
-
-Studying information security principles, common vulnerabilities, defensive techniques, and ethical hacking methodologies.
-
-**Operating Systems & Linux**
-
-Exploring operating system architecture, Linux environments, command-line tools, and system administration fundamentals.
-
-**Cryptography**
-
-Understanding encryption, hashing, cryptographic algorithms, and their role in protecting information and digital communications.
+What pulled me into this field is **curiosity**: I want to understand how systems get broken into, and how they are protected. Every protocol, operating system, and encryption method I study answers a part of that question, and the more I learn, the more I want to learn.
 
 ---
 
-## LONG-TERM OBJECTIVES
+## 🎓 Education
 
-- Develop a strong foundation in Computer Science.
-- Build practical programming and cybersecurity projects.
-- Deepen my understanding of networks and operating systems.
-- Explore applied cryptography and information security.
-- Develop analytical and problem-solving skills.
-- Contribute to open-source projects.
-- Pursue higher education in Computer Science.
-- Continuously expand my knowledge of emerging technologies.
+| | |
+|:--|:--|
+| **Cybersecurity & Networking Fundamentals** | New Horizons Institute, Syria *(in progress)* |
+| **Scientific Baccalaureate** | Syria *(completed)* |
 
 ---
 
-## PROJECTS & DOCUMENTATION
+## 📚 What I'm Studying
 
-This repository profile serves as a technical portfolio documenting my learning progress, practical projects, experiments, and technical research.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I aim to connect theoretical knowledge with practical implementation and maintain clear documentation of the concepts and technologies I explore.
+### 🌐 Networking
+- OSI & TCP/IP models
+- IP addressing & subnetting
+- VLANs & DHCP
+- Virtualization
+- CCNA topics using Cisco Packet Tracer
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Operating Systems
+- Linux command line
+- Windows internals: registry, event logs, Sysmon
+- Introduction to digital forensics
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Security Fundamentals
+- Common threats & defensive techniques
+- Ethical hacking concepts
+- Cryptography: encryption & hashing
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Programming
+- Python fundamentals
+- Scripting & automation basics
+
+</td>
+</tr>
+</table>
 
 ---
 
-## CONTACT
+## 🚧 Currently Working Toward
 
-GitHub: [mazen-alhariri](https://github.com/mazen-alhariri)
+- 🌐 **CCNA preparation**: studying with Cisco Packet Tracer labs
+- 🐍 **Python**: moving from fundamentals to small automation scripts
+- 🐧 **Linux**: daily practice in the command line
+
+### 🧪 Starting Hands-On Practice on TryHackMe
+
+I'm beginning guided, hands-on security training on [TryHackMe](https://tryhackme.com) to turn what I learn in class into practical skills.
+
+- [ ] Start a beginner learning path (Pre Security)
+- [ ] Complete a few rooms every week alongside my coursework
+- [ ] Keep short notes on what I learn from each room
 
 ---
 
-<p align="center">
-  <sub>Computer Science · Cybersecurity · Continuous Learning</sub>
-</p>
+## 🛠️ Tools & Environment
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/WSL2%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 🧭 How I Learn
+
+1. **Structured learning**: following a clear roadmap from networking fundamentals to security.
+2. **Hands-on practice**: applying each concept in labs and exercises.
+3. **Regular review**: testing myself lesson by lesson to retain what I learn.
+4. **Note-taking**: writing things down in my own words to deepen understanding.
+
+---
+
+## 🎯 Goals
+
+- 🎓 Study **Cybersecurity** at university
+- 🧱 Build a strong foundation in networking, operating systems, and programming
+- 🛡️ Become a cybersecurity professional
+- 🌍 Learn in an international environment and grow with the security community
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mazen.alhariri.sec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazen.alhariri.sec@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mazen--alhariri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazen-alhariri)
+
+📍 Syria 🇸🇾 · 💬 Arabic (native) · English (intermediate)
+
+*Open to learning, mentorship, and academic opportunities.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=100&section=footer" width="100%" alt="footer"/>
