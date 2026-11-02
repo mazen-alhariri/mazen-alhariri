@@ -1,87 +1,94 @@
 
-# Mazen Alhariri
+# MAZEN ALHARIRI
 
-### Computer Science | Cybersecurity | Technology
-
----
-
-## 👨‍💻 About Me
-
-I'm passionate about Computer Science, Cybersecurity, and emerging technologies.
-
-My interests focus on understanding the fundamentals of computing, exploring how systems work, and developing practical solutions through programming and technical research.
-
-I believe in continuous learning, analytical thinking, and turning knowledge into meaningful projects.
-
-- Exploring Computer Science and Software Development.
-- Learning Python Programming.
-- Studying Computer Networks and Linux.
-- Exploring Cybersecurity and Ethical Hacking.
-- Interested in Artificial Intelligence and emerging technologies.
+**Computer Science | Cybersecurity | Software Development**
 
 ---
 
-## 🛠️ Areas of Interest
+## PROFILE
 
-| Field | Focus |
-|---|---|
+Technology enthusiast with a strong interest in Computer Science, Cybersecurity, and the underlying principles of computing systems.
+
+My learning journey focuses on programming, networking, operating systems, information security, and cryptography. I aim to develop a solid technical foundation through structured learning, practical experimentation, and hands-on projects.
+
+I am particularly interested in understanding how software, networks, and security mechanisms work together to build reliable and secure systems.
+
+---
+
+## TECHNICAL INTERESTS
+
+| Domain | Areas of Interest |
+|:---|:---|
 | Programming | Python, Software Development |
-| Cybersecurity | Ethical Hacking, Information Security |
-| Networking | Network Fundamentals, Protocols |
-| Systems | Linux, Operating Systems |
-| Technology | Artificial Intelligence, Automation |
+| Networking | Network Fundamentals, Protocols, Network Architecture |
+| Cybersecurity | Information Security, Security Fundamentals, Ethical Hacking |
+| Operating Systems | Linux, Operating System Fundamentals |
+| Cryptography | Encryption, Hashing, Cryptographic Fundamentals |
 
 ---
 
-## 📚 Currently Learning
+## CURRENTLY LEARNING
 
 - Python Programming
-- Computer Science Fundamentals
-- Computer Networking
-- Linux and Command Line
+- Computer Networking Fundamentals
 - Cybersecurity Fundamentals
-- Problem Solving and Algorithmic Thinking
+- Operating Systems
+- Linux Administration and Command Line
+- Cryptography and Data Protection
 
 ---
 
-## 🎯 Goals & Vision
+## AREAS OF FOCUS
 
-- Build a strong foundation in Computer Science.
-- Develop practical software and cybersecurity projects.
-- Strengthen analytical and problem-solving skills.
-- Explore Artificial Intelligence and emerging technologies.
+**Programming & Automation**
+
+Developing programming skills with Python and exploring its applications in software development, automation, and security.
+
+**Computer Networks**
+
+Understanding network architecture, communication protocols, addressing, and the fundamentals of network infrastructure.
+
+**Cybersecurity**
+
+Studying information security principles, common vulnerabilities, defensive techniques, and ethical hacking methodologies.
+
+**Operating Systems & Linux**
+
+Exploring operating system architecture, Linux environments, command-line tools, and system administration fundamentals.
+
+**Cryptography**
+
+Understanding encryption, hashing, cryptographic algorithms, and their role in protecting information and digital communications.
+
+---
+
+## LONG-TERM OBJECTIVES
+
+- Develop a strong foundation in Computer Science.
+- Build practical programming and cybersecurity projects.
+- Deepen my understanding of networks and operating systems.
+- Explore applied cryptography and information security.
+- Develop analytical and problem-solving skills.
 - Contribute to open-source projects.
 - Pursue higher education in Computer Science.
-- Grow into a skilled technology professional.
+- Continuously expand my knowledge of emerging technologies.
 
 ---
 
-## 🚀 My Journey
+## PROJECTS & DOCUMENTATION
 
-This GitHub profile documents my continuous learning journey through technical projects, experiments, research, and practical applications.
+This repository profile serves as a technical portfolio documenting my learning progress, practical projects, experiments, and technical research.
 
-My goal is to transform theoretical knowledge into practical skills, build meaningful projects, and continuously improve my understanding of technology.
-
-I believe that consistency, curiosity, and hands-on experience are essential to long-term growth.
+I aim to connect theoretical knowledge with practical implementation and maintain clear documentation of the concepts and technologies I explore.
 
 ---
 
-## 📌 What You'll Find Here
+## CONTACT
 
-- Programming projects and experiments.
-- Cybersecurity learning labs.
-- Networking and Linux notes.
-- Technical research and documentation.
-- Practical applications of Computer Science concepts.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@mazen-alhariri](https://github.com/mazen-alhariri)
+GitHub: [mazen-alhariri](https://github.com/mazen-alhariri)
 
 ---
 
 <p align="center">
-  <i>Driven by curiosity. Focused on technology. Committed to growth.</i>
+  <sub>Computer Science · Cybersecurity · Continuous Learning</sub>
 </p>
